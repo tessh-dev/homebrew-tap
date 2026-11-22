@@ -1,6 +1,6 @@
 cask "tessh" do
-  version "0.1.0,21"
-  sha256 "f383991c85579953a3c14d0fe3e989ebf5d7af0bc4ff25ebe3ff9a49f1e2780c"
+  version "1.0.0,30"
+  sha256 "e4abc8f40d807fa2a70be66c0438876ac7645419d6e731712989e010f3340a8a"
 
   url "https://tessh.dev/updates/mac/Tessh-#{version.csv.first}-#{version.csv.second}.dmg"
   name "Tessh"
